@@ -6,8 +6,8 @@ title: Adam King | Full Stack Software Developer
 image: /img/home-jumbotron.jpg
 mainpitch:
   title: Welcome
-  description: "**My name is Adam and I'm self-taught  Full Stack Software
-    Developer, specialising in Laravel and React/Vue**"
+  description: My name is Adam and I'm self-taught  Full Stack Software Developer,
+    specialising in Laravel and React/Vue
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
   production, roasting and brewing seriously and we’re glad to pass that
