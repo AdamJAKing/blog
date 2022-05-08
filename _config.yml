@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Adam King"
   avatar : "/assets/images/me.jpg"
-  bio    : "Senior Software Engineer"
+  bio    : "Clean Code ⚆ Clean Architecture ⚆ Best Practices"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
