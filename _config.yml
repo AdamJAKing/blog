@@ -89,6 +89,7 @@ defaults:
       comments: true
       share: true
       related: true
+      show_date: true
   # _pages
   - scope:
       path: "_pages"
@@ -103,3 +104,4 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+  
