@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: Adam King | Senior Software Engineer
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -59,27 +59,21 @@ plugins:
 
 author:
   name   : "Adam King"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/me.jpg"
   bio    : "Senior Software Engineer"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/KingSoftwareDev"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AdamJAKing"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/KingSoftwareDev"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AdamJAking"
