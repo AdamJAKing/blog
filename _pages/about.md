@@ -15,9 +15,9 @@ that focuses on my advancing software career. I hope you enjoy
 Like many, my life has always been surrounded by computers. I was certainly
 part of a generation that was almost raised by them. The simplicity of a 
 well-made user interface on top of the enormous complexity of the hardware truly
-fascinated me. I would spend my time not only playing with them but also
-exploring vast amounts of software. I eventually ventured into software 
-such as Game Maker, wanting to fully create my own game.
+fascinates me. As a child I would spend my time not only playing with computers
+but also exploring vast amounts of software that was available. I eventually 
+ventured into software such as Game Maker, wanting to fully create my own games.
 
 In April 2010, I had started to hear about a game called Minecraft. It was in 
 a beta development stage at this point and came with the promise of regular
@@ -55,8 +55,12 @@ it, and I continue to stride to be the best engineer that I can be.
 
 These days I'm a senior software engineer with a keen interest in clean code,
 clean architecture and practices such as SOLID. I'm a true believer that
-a software engineer's job is to not just code but to code well. Uncle Bob
-says it best
+a software engineer's job is to not just code but to code well. 
+
+I have worked in businesses of all sizes in my career, from tiny 3-people teams 
+up to huge technology companies that operate in multiple countries and the one 
+thing that I've noticed is the quality of code and how engineers who truly care
+propel the software to amazing heights. I believe Uncle Bob says it best
 
 > It is not enough for code to work. Code that works is often badly broken. 
 > Programmers who satisfy themselves with merely working code are behaving 
@@ -65,8 +69,19 @@ says it best
 > <cite>Robert C. Martin</cite>
 
 I focus heavily on making sure that my code is readable, maintainable and 
-testable via automation. I also strive to educate others on these practices
-as they save businesses time and money as also allow engineers to take pride
-and enjoy the work that they do.
+testable via automation. I also strive to educate others on these practices,
+as they save businesses time and money and allow engineers to take pride in
+their work.
 
-Listed below as some pieces of technology that I like to work with
+Listed below are some pieces of technology that I like to work with
+
+<div class="technologies-container">
+    <i class="fab fa-java fa-3x"></i>
+    <i class="fab fa-php fa-3x"></i>
+    <i class="fab fa-laravel fa-3x"></i>
+    <i class="fab fa-js fa-3x"></i>
+    <i class="fab fa-react fa-3x"></i>
+    <i class="fab fa-docker fa-3x"></i>
+</div>
+
+
