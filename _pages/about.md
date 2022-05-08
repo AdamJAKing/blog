@@ -1,7 +1,14 @@
 ---
 permalink: /about/
 title: "About"
+toc: true
+toc_label: "Sections"
+toc_icon: "computer"
 ---
+
+This section is split into two parts. A little about my humble beginnings
+as a self-taught developer working out of his bedroom and a second part
+that focuses on my advancing software career. I hope you enjoy
 
 # A Brief History
 
@@ -43,3 +50,23 @@ eventually getting my first job and never looking back.
 
 I truly love software and everything it entails. I never plan to stop doing 
 it, and I continue to stride to be the best engineer that I can be.
+
+# Modern Day
+
+These days I'm a senior software engineer with a keen interest in clean code,
+clean architecture and practices such as SOLID. I'm a true believer that
+a software engineer's job is to not just code but to code well. Uncle Bob
+says it best
+
+> It is not enough for code to work. Code that works is often badly broken. 
+> Programmers who satisfy themselves with merely working code are behaving 
+> unprofessionally
+> 
+> <cite>Robert C. Martin</cite>
+
+I focus heavily on making sure that my code is readable, maintainable and 
+testable via automation. I also strive to educate others on these practices
+as they save businesses time and money as also allow engineers to take pride
+and enjoy the work that they do.
+
+Listed below as some pieces of technology that I like to work with
