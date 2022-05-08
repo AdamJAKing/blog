@@ -58,9 +58,10 @@ clean architecture and practices such as SOLID. I'm a true believer that
 a software engineer's job is to not just code but to code well. 
 
 I have worked in businesses of all sizes in my career, from tiny 3-people teams 
-up to huge technology companies that operate in multiple countries and the one 
-thing that I've noticed is the quality of code and how engineers who truly care
-propel the software to amazing heights. I believe Uncle Bob says it best
+up to huge technology companies that operate in multiple countries. The one 
+thing that I've noticed is the quality of the code and how engineers who 
+truly care propel the software to amazing heights. 
+I believe Uncle Bob says it best
 
 > It is not enough for code to work. Code that works is often badly broken. 
 > Programmers who satisfy themselves with merely working code are behaving 
