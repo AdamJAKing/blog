@@ -6,9 +6,9 @@ toc_label: "Sections"
 toc_icon: "computer"
 ---
 
-This section is split into two parts. A little about my humble beginnings
-as a self-taught developer working out of his bedroom and a second part
-that focuses on my advancing software career. I hope you enjoy
+Welcome and thank you for visiting my site. Here you will find a little about
+my humble beginnings as a self-taught developer as well as information regarding
+my advancing software career. I hope you enjoy
 
 # A Brief History
 
