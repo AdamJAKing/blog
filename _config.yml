@@ -79,6 +79,9 @@ footer:
 
 og_image: /assets/images/me.jpg
 
+twitter:
+  username: "KingSoftwareDev"
+
 defaults:
   # _posts
   - scope:
