@@ -77,7 +77,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AdamJAking"
 
-og_image: /assets/images/me.jpg
+og_image: /assets/images/site-og-image.jpg
 
 twitter:
   username: "KingSoftwareDev"
