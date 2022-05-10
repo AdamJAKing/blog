@@ -1,5 +1,7 @@
 ---
 title: "Why I Built This Site"
+header:
+    og_image: /assets/images/why-I-built-this-site/code.jpg
 categories:
   - Clean Code
 tags:
