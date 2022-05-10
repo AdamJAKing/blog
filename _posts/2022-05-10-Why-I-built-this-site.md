@@ -26,7 +26,9 @@ From my experience and observations, I believe the reasons for the industry
 having so much poor code can be broken down into the following 3 categories.
 
 * Ignorance - Some engineers simply don't know about good coding practices due to a lack
-of training or self-study.
+of training or self-study. I personally believe that this category is the real problem.
+I've worked with engineers who have 10+ years under their belt but who don't follow good 
+standards purely because of ignorance.
 * Pressure - Some engineers have become accustomed to working in high pressure 
 environments that sacrifice good code over just shipping the product.
 * Arrogance - Some engineers simply don't care. It's sad but true, some software engineers
