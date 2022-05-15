@@ -50,8 +50,7 @@ the concepts which I feel weak in.
 The next step is that I will begin building a new project that is solely focused on
 frontend technologies. This will force me to face my weaknesses head on and not spend too
 much time with technology that I feel stronger in. For this project I will be using 
-React, Tailwind and Jest. Jest is the only technology of these that I have used before,
-but I still feel that I can improve with it.
+React, Tailwind and Jest.
 
 Finally, I am focusing on playing around with the technologies that I feel the most
 comfortable with but also throwing in some new concepts. For this I am playing 
